@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="mx.unam.dgpe.sample.controller.TestMyController" time="1.585" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="mx.unam.dgpe.sample.controller.TestMyController" time="3.293" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/java/jdk1.8.0_65/jre/lib/amd64"/>
@@ -32,7 +32,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="4.13.0-43-generic"/>
+    <property name="os.version" value="4.4.0-116-generic"/>
     <property name="library.jansi.path" value="/usr/maaven/current/lib/jansi-native"/>
     <property name="user.home" value="/root"/>
     <property name="user.timezone" value="Etc/UTC"/>
@@ -61,5 +61,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="mx.unam.dgpe.sample.controller.TestMyController" name="ok" time="1.585"/>
+  <testcase classname="mx.unam.dgpe.sample.controller.TestMyController" name="ok" time="3.293"/>
 </testsuite>
